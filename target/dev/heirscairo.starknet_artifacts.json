@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"1lq1hi213u55s","package_name":"heirscairo","contract_name":"Inheritance","module_path":"heirscairo::inheritance::Inheritance","artifacts":{"sierra":"heirscairo_Inheritance.contract_class.json","casm":"heirscairo_Inheritance.compiled_contract_class.json"}}]}
