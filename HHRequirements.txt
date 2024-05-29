@@ -1,0 +1,13 @@
+NOTIONS:
+ALEPINTO:
+-Whitepaper:index(roadmap de la empresa)
+-Recursos necesarios
+-barreras:liadas
+-Roadmap:nosotros HH
+SAMU:
+-Diapositivas:peachdeck (quienes somos, proyecto, problemas, solucion,
+estudio de mercado mercado(dinero perdido en wallet por muerte), competencia).
+ALLERA:
+SMARTCONTRACT, 
+	PARTE 1: DISTRIBUCION DE FONDOS, CON MUERTO Y BENEFACTORES.
+	PARTE 2: ORACULO PARA EL CERTIFICADO DE DEFUNCION.
